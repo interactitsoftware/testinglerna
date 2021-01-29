@@ -1,6 +1,6 @@
 {
   "name": "create-incta-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "creates incta app",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,6 @@
     "url": "git+https://github.com/interactitsoftware/incta",
     "directory": "packages/create-incta-app"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "a3acd5d2d250c8a10e9ffd6b5ac5346667e0f4a6"
 }
