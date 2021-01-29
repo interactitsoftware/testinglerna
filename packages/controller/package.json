@@ -1,0 +1,24 @@
+{
+  "name": "@incta/controller",
+  "version": "0.0.1",
+  "description": "entry point for events",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interactitsoftware/incta.git",
+    "directory": "packages/create-incta-app"
+  },
+  "keywords": [
+    "aws",
+    "serverless"
+  ],
+  "author": "interactitsoftware",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interactitsoftware/incta/issues"
+  },
+  "homepage": "https://github.com/interactitsoftware/incta#readme"
+}
