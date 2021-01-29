@@ -1,6 +1,6 @@
 {
   "name": "create-incta-app",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "creates incta app",
   "main": "index.js",
   "scripts": {
