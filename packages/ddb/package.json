@@ -1,6 +1,6 @@
 {
   "name": "@incta/ddb",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "dynamodb storage for incta apps",
   "main": "index.js",
   "scripts": {

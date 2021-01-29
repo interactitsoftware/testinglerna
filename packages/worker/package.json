@@ -1,6 +1,6 @@
 {
   "name": "@incta/worker",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "worker lambda",
   "main": "index.js",
   "scripts": {
