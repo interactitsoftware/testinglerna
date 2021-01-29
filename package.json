@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@incta/incta",
   "public": true,
   "scripts": {
     "test": "lerna run test",
