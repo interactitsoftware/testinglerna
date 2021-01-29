@@ -1,6 +1,6 @@
 {
   "name": "@incta/worker",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "worker lambda",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/interactitsoftware/incta/issues"
   },
-  "homepage": "https://github.com/interactitsoftware/incta#readme"
+  "homepage": "https://github.com/interactitsoftware/incta#readme",
+  "gitHead": "a3acd5d2d250c8a10e9ffd6b5ac5346667e0f4a6"
 }

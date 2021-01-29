@@ -1,7 +1,19 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "@incta/incta",
+  "public": true,
+  "scripts": {
+    "test": "lerna run test",
+    "version": "lerna version --conventional-commits --yes",
+    "diff": "lerna diff",
+    "commit": "./node_modules/cz-customizable/standalone.js"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-customizable"
+    }
+  },
   "devDependencies": {
+    "cz-customizable": "^6.3.0",
     "lerna": "^3.22.1"
   }
 }
