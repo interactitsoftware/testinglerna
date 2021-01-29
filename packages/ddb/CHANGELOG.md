@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/interactitsoftware/incta/compare/v0.0.8...v0.1.0) (2021-01-29)
+
+**Note:** Version bump only for package @incta/ddb
+
+
+
+
+
 ## [0.0.8](https://github.com/interactitsoftware/incta/compare/v0.0.5...v0.0.8) (2021-01-29)
 
 

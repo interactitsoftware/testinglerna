@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/interactitsoftware/incta/compare/v0.0.8...v0.1.0) (2021-01-29)
+
+
+* fix(lernausage):learning to use conventional commits ([3825970](https://github.com/interactitsoftware/incta/commit/3825970163549961b6113bc55487770a63dcd780))
+
+
+### BREAKING CHANGES
+
+* environment variables now take precedence over config files
+
+
+
+
+
 ## [0.0.8](https://github.com/interactitsoftware/incta/compare/v0.0.5...v0.0.8) (2021-01-29)
 
 
