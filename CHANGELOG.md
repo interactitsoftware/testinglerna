@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/interactitsoftware/incta/compare/v0.1.1...v0.1.2) (2021-01-29)
+
+
+### Bug Fixes
+
+* **a:** this is same file but in a package ([8df14be](https://github.com/interactitsoftware/incta/commit/8df14be6c1e289d3a30536018308202601a70e36))
+
+
+* docs(newfile)!: some ne file A ([8c1c260](https://github.com/interactitsoftware/incta/commit/8c1c26067fce3ba44eb8af46eae9d8bc3e5a7094))
+
+
+### BREAKING CHANGES
+
+* now file A is in the repo
+
+
+
+
+
 ## [0.1.1](https://github.com/interactitsoftware/incta/compare/v0.1.0...v0.1.1) (2021-01-29)
 
 **Note:** Version bump only for package @incta/incta
