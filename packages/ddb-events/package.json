@@ -1,6 +1,6 @@
 {
   "name": "@incta/ddb-events",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "dynamo streams event handlers for incta apps",
   "main": "index.js",
   "scripts": {

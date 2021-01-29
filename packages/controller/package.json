@@ -1,6 +1,6 @@
 {
   "name": "@incta/controller",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "entry point for events",
   "main": "index.js",
   "devDependencies": {
