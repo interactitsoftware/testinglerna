@@ -1,6 +1,6 @@
 {
   "name": "@incta/item-manager",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "managing operations over items in incta apps",
   "main": "index.js",
   "scripts": {
